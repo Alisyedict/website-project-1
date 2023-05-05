@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(255, 123, 0);
+  }
+
+  nav {
+    background-color: #000000;
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav li {
+    margin: 0 10px;
+ 
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+ .kungfu.PNG{
+    width: 700px;
+
+ }
+  
+img{
+  Float:left;
+}
